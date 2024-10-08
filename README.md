@@ -1,7 +1,7 @@
 # Precision Medicine: Individualised Treatment Regimes
 
 
-![Survival Outcome Weighted Learning](/figures/itr_visual.pdf?raw=true "Survival Outcome Weighted Learning")
+![Survival Outcome Weighted Learning](figures/itr_visual.pdf?raw=true "Survival Outcome Weighted Learning")
 
 
 ## Abstract 
