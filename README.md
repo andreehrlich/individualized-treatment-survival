@@ -1,5 +1,9 @@
 # Precision Medicine: Individualised Treatment Regimes
 
+
+![Survival Outcome Weighted Learning](/figures/itr_visual.pdf?raw=true "Survival Outcome Weighted Learning")
+
+
 ## Abstract 
 
 Precision Medicine aims to deliver patient-centered care beyond
