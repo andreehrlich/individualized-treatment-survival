@@ -3,6 +3,13 @@
 
 ![Survival Outcome Weighted Learning](figures/itr_visual.pdf)
 
+<object data="figures/itr_visual.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="figures/itr_visual.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="figures/itr_visual.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 
 ## Abstract 
 
